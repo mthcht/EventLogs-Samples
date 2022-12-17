@@ -36,4 +36,4 @@ System Subject Account Names (`*$`) and System32 executables
 The other EventID should be used for event correlation :
 - powershell event log events allows us to retrive the script executed and his content
 - security event logs allows us to see how the script was executed.
-These are specifically triggered by this script but other methods of group enumeration can be logged elsewhere, the important EventID that should be trigger everytime is 4799.
+These are specifically triggered by this script but other methods of group enumeration can be logged elsewhere, the important EventID that should be triggered everytime is 4799.
