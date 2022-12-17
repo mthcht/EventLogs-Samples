@@ -1,0 +1,72 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Warning,12/17/2022 10:59:53 AM,Microsoft-Windows-PowerShell,4104,Execute a Remote Command,"Creating Scriptblock text (1 of 1):
+{
+        $MemberClass = $_.ObjectClass
+        $MemberName = $_.Name
+        $MemberType = $_.PrincipalSource 
+
+        #Create a custom object to hold the data
+        $OutputObject = New-Object PSObject
+         
+        #Add Properties to the Object
+        $OutputObject | Add-Member -MemberType NoteProperty -Name GroupName -Value $Group
+        $OutputObject | Add-Member -MemberType NoteProperty -Name MemberClass -Value $MemberClass
+        $OutputObject | Add-Member -MemberType NoteProperty -Name MemberName -Value $MemberName
+        $OutputObject | Add-Member -MemberType NoteProperty -Name PrincipalSource -Value $MemberType 
+
+        #Add the Object to the Output Array
+        $OutputArray += $OutputObject
+    }
+
+ScriptBlock ID: b3d329d8-2712-4da1-be8b-5e5433ea75cf
+Path: C:\Users\mthcht\Documents\GitHub\Purpleteam\Simulation\Windows\Accounts\enumerate_admins_local_group.ps1"
+Warning,12/17/2022 10:59:53 AM,Microsoft-Windows-PowerShell,4104,Execute a Remote Command,"Creating Scriptblock text (1 of 1):
+# T1069.001 - Permission Groups Discovery
+# This script will detect local groups with admin privileges, enumerate them and save the result to a csv file, should trigger EventID 4799
+
+#Get the current directory
+$currentDirectory = Get-Location
+
+#Get all groups
+$LocalGroups = Get-LocalGroup
+
+#Filter groups to get only Administrators
+$AdminGroups = $LocalGroups | Where-Object {$_.Sid -match ""S-1-5-32-544""}
+
+
+#Create an array to hold the output
+$OutputArray = @()
+
+Foreach($Group in $AdminGroups){
+    #Display Group Name
+    Write-Host $Group.Name
+    #Enumerate Local Group Members
+    $LocalGroupMembers = Get-LocalGroupMember -Group $Group
+
+    #Display Local Administrators Group Members
+    $LocalGroupMembers | Format-Table -AutoSize
+    $LocalGroupMembers | ForEach-Object {
+        $MemberClass = $_.ObjectClass
+        $MemberName = $_.Name
+        $MemberType = $_.PrincipalSource 
+
+        #Create a custom object to hold the data
+        $OutputObject = New-Object PSObject
+         
+        #Add Properties to the Object
+        $OutputObject | Add-Member -MemberType NoteProperty -Name GroupName -Value $Group
+        $OutputObject | Add-Member -MemberType NoteProperty -Name MemberClass -Value $MemberClass
+        $OutputObject | Add-Member -MemberType NoteProperty -Name MemberName -Value $MemberName
+        $OutputObject | Add-Member -MemberType NoteProperty -Name PrincipalSource -Value $MemberType 
+
+        #Add the Object to the Output Array
+        $OutputArray += $OutputObject
+    }
+}
+
+#Export the Array to CSV
+$OutputArray | Export-Csv -Force -Path $currentDirectory\LocalAdminGroupMembers.csv -NoTypeInformation
+
+
+ScriptBlock ID: c2e51272-b9e8-4bda-be18-a04fa4055bca
+Path: C:\Users\mthcht\Documents\GitHub\Purpleteam\Simulation\Windows\Accounts\enumerate_admins_local_group.ps1"

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Events><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-Security-Auditing' Guid='{54849625-5478-4994-a5ba-3e3b0328c30d}'/><EventID>4656</EventID><Version>1</Version><Level>0</Level><Task>12801</Task><Opcode>0</Opcode><Keywords>0x8020000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:52.9981413Z'/><EventRecordID>37618</EventRecordID><Correlation/><Execution ProcessID='4' ThreadID='4080'/><Channel>Security</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data Name='SubjectUserSid'>S-1-5-21-3424135169-4158625805-3841904879-1001</Data><Data Name='SubjectUserName'>mthcht</Data><Data Name='SubjectDomainName'>DESKTOP-LJSP0ER</Data><Data Name='SubjectLogonId'>0x1b62b</Data><Data Name='ObjectServer'>Security</Data><Data Name='ObjectType'>Key</Data><Data Name='ObjectName'>\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WSMAN</Data><Data Name='HandleId'>0x378</Data><Data Name='TransactionId'>{00000000-0000-0000-0000-000000000000}</Data><Data Name='AccessList'>%%1538
+				%%4432
+				%%4435
+				%%4436
+				</Data><Data Name='AccessReason'>-</Data><Data Name='AccessMask'>0x20019</Data><Data Name='PrivilegeList'>-</Data><Data Name='RestrictedSidCount'>0</Data><Data Name='ProcessId'>0x948</Data><Data Name='ProcessName'>C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe</Data><Data Name='ResourceAttributes'>-</Data></EventData><RenderingInfo Culture='en-US'><Message>A handle to an object was requested.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Object:
+	Object Server:		Security
+	Object Type:		Key
+	Object Name:		\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WSMAN
+	Handle ID:		0x378
+	Resource Attributes:	-
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+
+Access Request Information:
+	Transaction ID:		{00000000-0000-0000-0000-000000000000}
+	Accesses:		READ_CONTROL
+				Query key value
+				Enumerate sub-keys
+				Notify about changes to keys
+				
+	Access Reasons:		-
+	Access Mask:		0x20019
+	Privileges Used for Access Check:	-
+	Restricted SID Count:	0</Message><Level>Information</Level><Task>Registry</Task><Opcode>Info</Opcode><Channel>Security</Channel><Provider>Microsoft Windows security auditing.</Provider><Keywords><Keyword>Audit Success</Keyword></Keywords></RenderingInfo></Event></Events>

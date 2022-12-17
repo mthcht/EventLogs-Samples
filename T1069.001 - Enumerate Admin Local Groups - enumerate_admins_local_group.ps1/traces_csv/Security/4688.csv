@@ -1,0 +1,31 @@
+﻿Keywords,Date and Time,Source,Event ID,Task Category
+Audit Success,12/17/2022 10:59:52 AM,Microsoft-Windows-Security-Auditing,4688,Process Creation,"A new process has been created.
+
+Creator Subject:
+	Security ID:		DESKTOP-LJSP0ER\mthcht
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Target Subject:
+	Security ID:		NULL SID
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x948
+	New Process Name:	C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+	Token Elevation Type:	%%1938
+	Mandatory Label:		Mandatory Label\Medium Mandatory Level
+	Creator Process ID:	0x4d0
+	Creator Process Name:	C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe
+	Process Command Line:	""C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"" -ep Bypass -File .\enumerate_admins_local_group.ps1
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator."

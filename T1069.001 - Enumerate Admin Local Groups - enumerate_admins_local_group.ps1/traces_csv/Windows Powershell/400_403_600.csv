@@ -1,0 +1,161 @@
+﻿Level,Date and Time,Source,Event ID,Task Category
+Information,12/17/2022 10:59:53 AM,PowerShell,403,Engine Lifecycle,"Engine state is changed from Available to Stopped. 
+
+Details: 
+	NewEngineState=Stopped
+	PreviousEngineState=Available
+
+	SequenceNumber=15
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=5.1.19041.1682
+	RunspaceId=af1d57c9-a759-4e10-abde-0e0f5cc0b051
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+Information,12/17/2022 10:59:53 AM,PowerShell,400,Engine Lifecycle,"Engine state is changed from None to Available. 
+
+Details: 
+	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=13
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=5.1.19041.1682
+	RunspaceId=af1d57c9-a759-4e10-abde-0e0f5cc0b051
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+Information,12/17/2022 10:59:53 AM,PowerShell,600,Provider Lifecycle,"Provider ""Variable"" is Started. 
+
+Details: 
+	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=11
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+Information,12/17/2022 10:59:53 AM,PowerShell,600,Provider Lifecycle,"Provider ""Function"" is Started. 
+
+Details: 
+	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+Information,12/17/2022 10:59:53 AM,PowerShell,600,Provider Lifecycle,"Provider ""FileSystem"" is Started. 
+
+Details: 
+	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+Information,12/17/2022 10:59:53 AM,PowerShell,600,Provider Lifecycle,"Provider ""Environment"" is Started. 
+
+Details: 
+	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+Information,12/17/2022 10:59:53 AM,PowerShell,600,Provider Lifecycle,"Provider ""Alias"" is Started. 
+
+Details: 
+	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="
+Information,12/17/2022 10:59:53 AM,PowerShell,600,Provider Lifecycle,"Provider ""Registry"" is Started. 
+
+Details: 
+	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine="

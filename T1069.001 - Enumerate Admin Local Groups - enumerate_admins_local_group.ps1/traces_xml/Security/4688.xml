@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Events><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-Security-Auditing' Guid='{54849625-5478-4994-a5ba-3e3b0328c30d}'/><EventID>4688</EventID><Version>2</Version><Level>0</Level><Task>13312</Task><Opcode>0</Opcode><Keywords>0x8020000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:52.8953392Z'/><EventRecordID>37615</EventRecordID><Correlation/><Execution ProcessID='4' ThreadID='4080'/><Channel>Security</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data Name='SubjectUserSid'>S-1-5-21-3424135169-4158625805-3841904879-1001</Data><Data Name='SubjectUserName'>mthcht</Data><Data Name='SubjectDomainName'>DESKTOP-LJSP0ER</Data><Data Name='SubjectLogonId'>0x1b62b</Data><Data Name='NewProcessId'>0x948</Data><Data Name='NewProcessName'>C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe</Data><Data Name='TokenElevationType'>%%1938</Data><Data Name='ProcessId'>0x4d0</Data><Data Name='CommandLine'>"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -ep Bypass -File .\enumerate_admins_local_group.ps1</Data><Data Name='TargetUserSid'>S-1-0-0</Data><Data Name='TargetUserName'>-</Data><Data Name='TargetDomainName'>-</Data><Data Name='TargetLogonId'>0x0</Data><Data Name='ParentProcessName'>C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe</Data><Data Name='MandatoryLabel'>S-1-16-8192</Data></EventData><RenderingInfo Culture='en-US'><Message>A new process has been created.
+
+Creator Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Target Subject:
+	Security ID:		S-1-0-0
+	Account Name:		-
+	Account Domain:		-
+	Logon ID:		0x0
+
+Process Information:
+	New Process ID:		0x948
+	New Process Name:	C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+	Token Elevation Type:	%%1938
+	Mandatory Label:		S-1-16-8192
+	Creator Process ID:	0x4d0
+	Creator Process Name:	C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe
+	Process Command Line:	"C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" -ep Bypass -File .\enumerate_admins_local_group.ps1
+
+Token Elevation Type indicates the type of token that was assigned to the new process in accordance with User Account Control policy.
+
+Type 1 is a full token with no privileges removed or groups disabled.  A full token is only used if User Account Control is disabled or if the user is the built-in Administrator account or a service account.
+
+Type 2 is an elevated token with no privileges removed or groups disabled.  An elevated token is used when User Account Control is enabled and the user chooses to start the program using Run as administrator.  An elevated token is also used when an application is configured to always require administrative privilege or to always require maximum privilege, and the user is a member of the Administrators group.
+
+Type 3 is a limited token with administrative privileges removed and administrative groups disabled.  The limited token is used when User Account Control is enabled, the application does not require administrative privilege, and the user does not choose to start the program using Run as administrator.</Message><Level>Information</Level><Task>Process Creation</Task><Opcode>Info</Opcode><Channel>Security</Channel><Provider>Microsoft Windows security auditing.</Provider><Keywords><Keyword>Audit Success</Keyword></Keywords></RenderingInfo></Event></Events>

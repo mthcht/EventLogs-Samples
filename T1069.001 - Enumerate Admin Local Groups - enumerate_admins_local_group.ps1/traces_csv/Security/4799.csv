@@ -1,0 +1,2545 @@
+﻿Level,Date and Time,Source,Event ID,Task Category,Computer,Log
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-581
+	Group Name:		System Managed Accounts Group
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-552
+	Group Name:		Replicator
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-580
+	Group Name:		Remote Management Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-555
+	Group Name:		Remote Desktop Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-547
+	Group Name:		Power Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-558
+	Group Name:		Performance Monitor Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-559
+	Group Name:		Performance Log Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-556
+	Group Name:		Network Configuration Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-568
+	Group Name:		IIS_IUSRS
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-578
+	Group Name:		Hyper-V Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-546
+	Group Name:		Guests
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-573
+	Group Name:		Event Log Readers
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-562
+	Group Name:		Distributed COM Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-583
+	Group Name:		Device Owners
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-569
+	Group Name:		Cryptographic Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:59:53 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Group:
+	Security ID:		S-1-5-32-579
+	Group Name:		Access Control Assistance Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe"
+Information,12/17/2022 10:51:54 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/17/2022 10:51:54 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/17/2022 10:50:44 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x10fc
+	Process Name:		C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{6FA9FEA3-BDA2-463D-B205-73EAA6131A40}\EDGEMITMP_20AC3.tmp\setup.exe"
+Information,12/17/2022 10:48:54 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/17/2022 10:48:54 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/17/2022 12:03:22 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/17/2022 12:03:22 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 7:02:11 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 7:02:11 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 7:01:58 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1324
+	Process Name:		C:\Windows\System32\SearchIndexer.exe"
+Information,12/16/2022 7:01:58 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1324
+	Process Name:		C:\Windows\System32\SearchIndexer.exe"
+Information,12/16/2022 7:01:53 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc38
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 7:01:53 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc38
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 7:01:52 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc38
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 7:01:52 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc38
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 7:01:52 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc38
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 7:01:52 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc38
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 7:01:51 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc38
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 7:01:51 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc38
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 7:01:46 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 7:01:46 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 7:01:45 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-20
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E4
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x660
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 7:01:45 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-20
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E4
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x660
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 7:01:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4a0
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 9:17:16 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 9:17:16 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 2:14:28 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 2:14:28 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 2:10:29 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c0
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 2:10:29 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c0
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 2:10:29 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c0
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 2:10:29 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c0
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 2:10:29 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c0
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 2:10:29 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c0
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 2:10:29 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c0
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 2:10:29 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c0
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 1:48:03 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 1:48:03 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 1:45:25 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x17d4
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 1:45:25 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x17d4
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 1:45:25 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x17d4
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 1:45:25 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x17d4
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 1:45:25 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x17d4
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 1:45:25 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x17d4
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 1:45:25 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x17d4
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 1:45:25 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x17d4
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/16/2022 1:33:54 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 1:33:54 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 12:49:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 12:49:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 12:41:29 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1310
+	Process Name:		C:\Program Files (x86)\Microsoft\EdgeUpdate\Install\{EC5F81D2-FBA4-4E07-A87A-875C62BF8700}\EDGEMITMP_60C9B.tmp\setup.exe"
+Information,12/16/2022 12:36:56 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-546
+	Group Name:		Guests
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x181c
+	Process Name:		C:\Windows\System32\CompatTelRunner.exe"
+Information,12/16/2022 12:36:56 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x181c
+	Process Name:		C:\Windows\System32\CompatTelRunner.exe"
+Information,12/16/2022 12:36:56 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x181c
+	Process Name:		C:\Windows\System32\CompatTelRunner.exe"
+Information,12/16/2022 12:32:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/16/2022 12:32:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 12:50:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15dc
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:50:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15dc
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:50:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15dc
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:50:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15dc
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:50:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15dc
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:50:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15dc
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:50:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15dc
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:50:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15dc
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:40:15 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1b6c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:40:15 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1b6c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:40:14 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1b6c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:40:14 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1b6c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:40:14 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1b6c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:40:14 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1b6c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:40:14 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1b6c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:40:14 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1b6c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 12:39:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 12:39:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 10:42:15 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 10:42:15 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 10:32:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1350
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 10:32:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1350
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 10:32:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1350
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 10:32:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1350
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 10:32:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1350
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 10:32:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1350
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 10:32:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1350
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 10:32:36 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1350
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:53:20 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xa14
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:53:20 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xa14
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:53:20 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xa14
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:53:20 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xa14
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:53:20 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xa14
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:53:20 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xa14
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:53:20 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xa14
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:53:20 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xa14
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:43:31 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:43:31 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:43:23 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-21-3424135169-4158625805-3841904879-1001
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x3F916
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:43:16 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xf18
+	Process Name:		C:\Windows\System32\SearchIndexer.exe"
+Information,12/14/2022 9:43:16 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xf18
+	Process Name:		C:\Windows\System32\SearchIndexer.exe"
+Information,12/14/2022 9:43:12 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:43:08 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc4c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:43:08 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc4c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:43:08 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc4c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:43:08 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc4c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:43:08 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc4c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:43:08 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc4c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:43:08 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc4c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:43:08 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xc4c
+	Process Name:		C:\Windows\System32\VSSVC.exe"
+Information,12/14/2022 9:43:05 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:43:05 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x15c
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:43:05 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-20
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E4
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x5d8
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:43:05 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-20
+	Account Name:		DESKTOP-LJSP0ER$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E4
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x5d8
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:41:05 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:41:05 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:39:26 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:39:15 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:39:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xeac
+	Process Name:		C:\Windows\System32\CloudExperienceHostBroker.exe"
+Information,12/14/2022 9:39:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xeac
+	Process Name:		C:\Windows\System32\CloudExperienceHostBroker.exe"
+Information,12/14/2022 9:39:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xeac
+	Process Name:		C:\Windows\System32\CloudExperienceHostBroker.exe"
+Information,12/14/2022 9:39:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xeac
+	Process Name:		C:\Windows\System32\CloudExperienceHostBroker.exe"
+Information,12/14/2022 9:39:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xeac
+	Process Name:		C:\Windows\System32\CloudExperienceHostBroker.exe"
+Information,12/14/2022 9:39:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xeac
+	Process Name:		C:\Windows\System32\CloudExperienceHostBroker.exe"
+Information,12/14/2022 9:39:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xeac
+	Process Name:		C:\Windows\System32\CloudExperienceHostBroker.exe"
+Information,12/14/2022 9:39:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xeac
+	Process Name:		C:\Windows\System32\CloudExperienceHostBroker.exe"
+Information,12/14/2022 9:39:14 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xeac
+	Process Name:		C:\Windows\System32\CloudExperienceHostBroker.exe"
+Information,12/14/2022 9:27:31 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 9:27:31 AM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 6:25:49 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 6:25:48 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 6:25:48 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 6:25:46 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xbc0
+	Process Name:		C:\Windows\System32\SearchIndexer.exe"
+Information,12/14/2022 6:25:46 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0xbc0
+	Process Name:		C:\Windows\System32\SearchIndexer.exe"
+Information,12/14/2022 6:25:44 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x114
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 6:25:40 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-20
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E4
+
+Group:
+	Security ID:		S-1-5-32-551
+	Group Name:		Backup Operators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4f4
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 6:25:40 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-20
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E4
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x4f4
+	Process Name:		C:\Windows\System32\svchost.exe"
+Information,12/14/2022 6:25:38 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x460
+	Process Name:		C:\Windows\System32\oobe\msoobe.exe"
+Information,12/14/2022 6:25:38 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x460
+	Process Name:		C:\Windows\System32\oobe\msoobe.exe"
+Information,12/14/2022 6:25:38 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x460
+	Process Name:		C:\Windows\System32\oobe\msoobe.exe"
+Information,12/14/2022 6:25:38 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,DESKTOP-LJSP0ER,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		WIN-PJS5KK56GBI$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-544
+	Group Name:		Administrators
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x460
+	Process Name:		C:\Windows\System32\oobe\msoobe.exe"
+Information,12/14/2022 6:24:20 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,WIN-PJS5KK56GBI,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x1290
+	Process Name:		C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.67\Installer\setup.exe"
+Information,12/14/2022 6:23:59 PM,Microsoft-Windows-Security-Auditing,4799,Security Group Management,WIN-PJS5KK56GBI,Security,"A security-enabled local group membership was enumerated.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		MINWINPC$
+	Account Domain:		
+	Logon ID:		0x3E7
+
+Group:
+	Security ID:		S-1-5-32-545
+	Group Name:		Users
+	Group Domain:		Builtin
+
+Process Information:
+	Process ID:		0x27c
+	Process Name:		C:\Windows\System32\services.exe"

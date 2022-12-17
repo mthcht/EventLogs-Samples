@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Events><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>403</EventID><Version>0</Version><Level>4</Level><Task>4</Task><Opcode>0</Opcode><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:53.9087856Z'/><EventRecordID>105</EventRecordID><Correlation/><Execution ProcessID='0' ThreadID='0'/><Channel>Windows PowerShell</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data>Stopped</Data><Data>Available</Data><Data>	NewEngineState=Stopped
+	PreviousEngineState=Available
+
+	SequenceNumber=15
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=5.1.19041.1682
+	RunspaceId=af1d57c9-a759-4e10-abde-0e0f5cc0b051
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData><RenderingInfo Culture='en-US'><Message>Engine state is changed from Available to Stopped. 
+
+Details: 
+	NewEngineState=Stopped
+	PreviousEngineState=Available
+
+	SequenceNumber=15
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=5.1.19041.1682
+	RunspaceId=af1d57c9-a759-4e10-abde-0e0f5cc0b051
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Message><Level>Information</Level><Task>Engine Lifecycle</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords><Keyword>Classic</Keyword></Keywords></RenderingInfo></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>400</EventID><Version>0</Version><Level>4</Level><Task>4</Task><Opcode>0</Opcode><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:53.1270085Z'/><EventRecordID>104</EventRecordID><Correlation/><Execution ProcessID='0' ThreadID='0'/><Channel>Windows PowerShell</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data>Available</Data><Data>None</Data><Data>	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=13
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=5.1.19041.1682
+	RunspaceId=af1d57c9-a759-4e10-abde-0e0f5cc0b051
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData><RenderingInfo Culture='en-US'><Message>Engine state is changed from None to Available. 
+
+Details: 
+	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=13
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=5.1.19041.1682
+	RunspaceId=af1d57c9-a759-4e10-abde-0e0f5cc0b051
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Message><Level>Information</Level><Task>Engine Lifecycle</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords><Keyword>Classic</Keyword></Keywords></RenderingInfo></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>600</EventID><Version>0</Version><Level>4</Level><Task>6</Task><Opcode>0</Opcode><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:53.1270085Z'/><EventRecordID>103</EventRecordID><Correlation/><Execution ProcessID='0' ThreadID='0'/><Channel>Windows PowerShell</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data>Variable</Data><Data>Started</Data><Data>	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=11
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData><RenderingInfo Culture='en-US'><Message>Provider "Variable" is Started. 
+
+Details: 
+	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=11
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Message><Level>Information</Level><Task>Provider Lifecycle</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords><Keyword>Classic</Keyword></Keywords></RenderingInfo></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>600</EventID><Version>0</Version><Level>4</Level><Task>6</Task><Opcode>0</Opcode><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:53.1270085Z'/><EventRecordID>102</EventRecordID><Correlation/><Execution ProcessID='0' ThreadID='0'/><Channel>Windows PowerShell</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data>Function</Data><Data>Started</Data><Data>	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData><RenderingInfo Culture='en-US'><Message>Provider "Function" is Started. 
+
+Details: 
+	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Message><Level>Information</Level><Task>Provider Lifecycle</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords><Keyword>Classic</Keyword></Keywords></RenderingInfo></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>600</EventID><Version>0</Version><Level>4</Level><Task>6</Task><Opcode>0</Opcode><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:53.1270085Z'/><EventRecordID>101</EventRecordID><Correlation/><Execution ProcessID='0' ThreadID='0'/><Channel>Windows PowerShell</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data>FileSystem</Data><Data>Started</Data><Data>	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData><RenderingInfo Culture='en-US'><Message>Provider "FileSystem" is Started. 
+
+Details: 
+	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Message><Level>Information</Level><Task>Provider Lifecycle</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords><Keyword>Classic</Keyword></Keywords></RenderingInfo></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>600</EventID><Version>0</Version><Level>4</Level><Task>6</Task><Opcode>0</Opcode><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:53.1270085Z'/><EventRecordID>100</EventRecordID><Correlation/><Execution ProcessID='0' ThreadID='0'/><Channel>Windows PowerShell</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data>Environment</Data><Data>Started</Data><Data>	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData><RenderingInfo Culture='en-US'><Message>Provider "Environment" is Started. 
+
+Details: 
+	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Message><Level>Information</Level><Task>Provider Lifecycle</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords><Keyword>Classic</Keyword></Keywords></RenderingInfo></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>600</EventID><Version>0</Version><Level>4</Level><Task>6</Task><Opcode>0</Opcode><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:53.1270085Z'/><EventRecordID>99</EventRecordID><Correlation/><Execution ProcessID='0' ThreadID='0'/><Channel>Windows PowerShell</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data>Alias</Data><Data>Started</Data><Data>	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData><RenderingInfo Culture='en-US'><Message>Provider "Alias" is Started. 
+
+Details: 
+	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Message><Level>Information</Level><Task>Provider Lifecycle</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords><Keyword>Classic</Keyword></Keywords></RenderingInfo></Event><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='PowerShell'/><EventID Qualifiers='0'>600</EventID><Version>0</Version><Level>4</Level><Task>6</Task><Opcode>0</Opcode><Keywords>0x80000000000000</Keywords><TimeCreated SystemTime='2022-12-17T09:59:53.1270085Z'/><EventRecordID>98</EventRecordID><Correlation/><Execution ProcessID='0' ThreadID='0'/><Channel>Windows PowerShell</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security/></System><EventData><Data>Registry</Data><Data>Started</Data><Data>	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData><RenderingInfo Culture='en-US'><Message>Provider "Registry" is Started. 
+
+Details: 
+	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=5.1.19041.1682
+	HostId=cd5b9b20-ab1f-445c-b801-dddb6f350454
+	HostApplication=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -ep Bypass -File .\enumerate_admins_local_group.ps1
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Message><Level>Information</Level><Task>Provider Lifecycle</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords><Keyword>Classic</Keyword></Keywords></RenderingInfo></Event></Events>

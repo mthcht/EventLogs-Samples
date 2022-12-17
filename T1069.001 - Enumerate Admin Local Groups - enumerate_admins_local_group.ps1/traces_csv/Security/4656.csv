@@ -1,0 +1,31 @@
+﻿Keywords,Date and Time,Source,Event ID,Task Category
+Audit Success,12/17/2022 10:59:52 AM,Microsoft-Windows-Security-Auditing,4656,Registry,"A handle to an object was requested.
+
+Subject:
+	Security ID:		DESKTOP-LJSP0ER\mthcht
+	Account Name:		mthcht
+	Account Domain:		DESKTOP-LJSP0ER
+	Logon ID:		0x1B62B
+
+Object:
+	Object Server:		Security
+	Object Type:		Key
+	Object Name:		\REGISTRY\MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WSMAN
+	Handle ID:		0x378
+	Resource Attributes:	-
+
+Process Information:
+	Process ID:		0x948
+	Process Name:		C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+
+Access Request Information:
+	Transaction ID:		{00000000-0000-0000-0000-000000000000}
+	Accesses:		READ_CONTROL
+				Query key value
+				Enumerate sub-keys
+				Notify about changes to keys
+				
+	Access Reasons:		-
+	Access Mask:		0x20019
+	Privileges Used for Access Check:	-
+	Restricted SID Count:	0"
