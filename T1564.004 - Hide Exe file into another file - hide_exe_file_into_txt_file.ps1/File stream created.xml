@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Events><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-Sysmon' Guid='{5770385f-c22a-43e0-bf4c-06f5698ffbd9}'/><EventID>15</EventID><Version>2</Version><Level>4</Level><Task>15</Task><Opcode>0</Opcode><Keywords>0x8000000000000000</Keywords><TimeCreated SystemTime='2022-12-20T19:17:44.3642174Z'/><EventRecordID>4158540</EventRecordID><Correlation/><Execution ProcessID='2964' ThreadID='4172'/><Channel>Microsoft-Windows-Sysmon/Operational</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security UserID='S-1-5-18'/></System><EventData><Data Name='RuleName'>-</Data><Data Name='UtcTime'>2022-12-20 19:17:44.359</Data><Data Name='ProcessGuid'>{5953e59c-9cda-63a1-222d-000000000800}</Data><Data Name='ProcessId'>3264</Data><Data Name='Image'>C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe</Data><Data Name='TargetFilename'>C:\Users\mthcht\Desktop\test.txt:hello.exe</Data><Data Name='CreationUtcTime'>2022-12-20 18:51:48.180</Data><Data Name='Hash'>SHA1=B625C9D8A99CD7FC46818E1B048A8DA2EA6980D1,MD5=3875112EA32E036F9B9838C96B1BD2B0,SHA256=CFAD527A995E142E0AC02115E41EB1C58D2B76E866755A9106B4312098285877,IMPHASH=6DBF27F4C70FE2C8ED3E0122BA75D641</Data><Data Name='Contents'>-</Data><Data Name='User'>DESKTOP-LJSP0ER\mthcht</Data></EventData><RenderingInfo Culture='en-US'><Message>File stream created:
+RuleName: -
+UtcTime: 2022-12-20 19:17:44.359
+ProcessGuid: {5953e59c-9cda-63a1-222d-000000000800}
+ProcessId: 3264
+Image: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+TargetFilename: C:\Users\mthcht\Desktop\test.txt:hello.exe
+CreationUtcTime: 2022-12-20 18:51:48.180
+Hash: SHA1=B625C9D8A99CD7FC46818E1B048A8DA2EA6980D1,MD5=3875112EA32E036F9B9838C96B1BD2B0,SHA256=CFAD527A995E142E0AC02115E41EB1C58D2B76E866755A9106B4312098285877,IMPHASH=6DBF27F4C70FE2C8ED3E0122BA75D641
+Contents: -
+User: DESKTOP-LJSP0ER\mthcht</Message><Level>Information</Level><Task>File stream created (rule: FileCreateStreamHash)</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords></Keywords></RenderingInfo></Event></Events>

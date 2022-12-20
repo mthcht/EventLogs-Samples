@@ -1,0 +1,12 @@
+Level,Date and Time,Source,Event ID,Task Category
+Information,12/20/2022 8:17:44 PM,Microsoft-Windows-Sysmon,15,File stream created (rule: FileCreateStreamHash),"File stream created:
+RuleName: -
+UtcTime: 2022-12-20 19:17:44.359
+ProcessGuid: {5953e59c-9cda-63a1-222d-000000000800}
+ProcessId: 3264
+Image: C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe
+TargetFilename: C:\Users\mthcht\Desktop\test.txt:hello.exe
+CreationUtcTime: 2022-12-20 18:51:48.180
+Hash: SHA1=B625C9D8A99CD7FC46818E1B048A8DA2EA6980D1,MD5=3875112EA32E036F9B9838C96B1BD2B0,SHA256=CFAD527A995E142E0AC02115E41EB1C58D2B76E866755A9106B4312098285877,IMPHASH=6DBF27F4C70FE2C8ED3E0122BA75D641
+Contents: -
+User: DESKTOP-LJSP0ER\mthcht"
