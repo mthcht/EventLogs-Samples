@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Events><Event xmlns='http://schemas.microsoft.com/win/2004/08/events/event'><System><Provider Name='Microsoft-Windows-Sysmon' Guid='{5770385f-c22a-43e0-bf4c-06f5698ffbd9}'/><EventID>1</EventID><Version>5</Version><Level>4</Level><Task>1</Task><Opcode>0</Opcode><Keywords>0x8000000000000000</Keywords><TimeCreated SystemTime='2022-12-21T12:46:50.0360601Z'/><EventRecordID>5086334</EventRecordID><Correlation/><Execution ProcessID='2964' ThreadID='4172'/><Channel>Microsoft-Windows-Sysmon/Operational</Channel><Computer>DESKTOP-LJSP0ER</Computer><Security UserID='S-1-5-18'/></System><EventData><Data Name='RuleName'>-</Data><Data Name='UtcTime'>2022-12-21 12:46:49.993</Data><Data Name='ProcessGuid'>{5953e59c-0039-63a3-44c4-010000000800}</Data><Data Name='ProcessId'>10460</Data><Data Name='Image'>C:\Windows\System32\attrib.exe</Data><Data Name='FileVersion'>10.0.19041.1 (WinBuild.160101.0800)</Data><Data Name='Description'>Attribute Utility</Data><Data Name='Product'>Microsoft® Windows® Operating System</Data><Data Name='Company'>Microsoft Corporation</Data><Data Name='OriginalFileName'>ATTRIB.EXE</Data><Data Name='CommandLine'>"C:\Windows\system32\attrib.exe" +h .\file_to_hide.txt</Data><Data Name='CurrentDirectory'>C:\Users\mthcht\Documents\</Data><Data Name='User'>DESKTOP-LJSP0ER\mthcht</Data><Data Name='LogonGuid'>{5953e59c-c798-63a0-77ff-010000000000}</Data><Data Name='LogonId'>0x1ff77</Data><Data Name='TerminalSessionId'>1</Data><Data Name='IntegrityLevel'>High</Data><Data Name='Hashes'>SHA1=B8337FA20077A2C6DB7D01CCC18E328A91255745,MD5=5037D8E6670EF1D89FB6AD435F12A9FD,SHA256=1043111FF07814B0D3439561B4CEE5D7EC1799A7A0A419949FEE707666F6DDED,IMPHASH=2CB38FE7D8F223D9DA50B7CBA9B95A6D</Data><Data Name='ParentProcessGuid'>{5953e59c-9cda-63a1-222d-000000000800}</Data><Data Name='ParentProcessId'>3264</Data><Data Name='ParentImage'>C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe</Data><Data Name='ParentCommandLine'>"C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe" </Data><Data Name='ParentUser'>DESKTOP-LJSP0ER\mthcht</Data></EventData><RenderingInfo Culture='en-US'><Message>Process Create:
+RuleName: -
+UtcTime: 2022-12-21 12:46:49.993
+ProcessGuid: {5953e59c-0039-63a3-44c4-010000000800}
+ProcessId: 10460
+Image: C:\Windows\System32\attrib.exe
+FileVersion: 10.0.19041.1 (WinBuild.160101.0800)
+Description: Attribute Utility
+Product: Microsoft® Windows® Operating System
+Company: Microsoft Corporation
+OriginalFileName: ATTRIB.EXE
+CommandLine: "C:\Windows\system32\attrib.exe" +h .\file_to_hide.txt
+CurrentDirectory: C:\Users\mthcht\Documents\
+User: DESKTOP-LJSP0ER\mthcht
+LogonGuid: {5953e59c-c798-63a0-77ff-010000000000}
+LogonId: 0x1FF77
+TerminalSessionId: 1
+IntegrityLevel: High
+Hashes: SHA1=B8337FA20077A2C6DB7D01CCC18E328A91255745,MD5=5037D8E6670EF1D89FB6AD435F12A9FD,SHA256=1043111FF07814B0D3439561B4CEE5D7EC1799A7A0A419949FEE707666F6DDED,IMPHASH=2CB38FE7D8F223D9DA50B7CBA9B95A6D
+ParentProcessGuid: {5953e59c-9cda-63a1-222d-000000000800}
+ParentProcessId: 3264
+ParentImage: C:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe
+ParentCommandLine: "C:\Windows\system32\WindowsPowerShell\v1.0\PowerShell_ISE.exe" 
+ParentUser: DESKTOP-LJSP0ER\mthcht</Message><Level>Information</Level><Task>Process Create (rule: ProcessCreate)</Task><Opcode>Info</Opcode><Channel></Channel><Provider></Provider><Keywords></Keywords></RenderingInfo></Event></Events>
